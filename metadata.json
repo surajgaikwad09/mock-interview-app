@@ -1,0 +1,6 @@
+{
+  "name": "DevOps AI Interview Coach",
+  "description": "AI-powered DevOps mock interviews, real-world troubleshooting scenarios, dynamic answer evaluations, and personalized 7-day study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
